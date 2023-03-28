@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [German Dream RP](https://discord.gg/germandream) - but you can also see me contribute and talk shit @ [ProjectSloth](https://discord.gg/projectsloth)
 - 🌱 I’m currently learning **Lua, Java/JavaScript**
-- 📫 How to reach me **rook#1000**
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
