@@ -2,7 +2,7 @@
 <h3 align="center">Owner & Dev @ German Dream RP</h3>
 
 - 🔭 I’m currently working on [German Dream RP](https://discord.gg/germandream) - but you can also see me contribute and talk shit @ [ProjectSloth](https://discord.gg/projectsloth)
-- 🌱 I’m currently learning **Lua, Java/JavaScript**
+- 🌱 I’m currently learning **Lua, Java and JavaScript**
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
